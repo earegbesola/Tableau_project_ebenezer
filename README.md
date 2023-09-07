@@ -19,7 +19,9 @@ The following questions were answered with the data and visualizations.
 
 2.Leading causes of death for different countries from 1990 to 2019
 
-3.average Yearly causes of death by year.
+3.Leading cause of death  Yearly.
+
+4.Yearly cause of death by country
 
 ## Challenges 
 As a rooky in tableau, it took me more time to  bring out relevant visualisations needed ,however i am certain that with more practice i would better using the application.
