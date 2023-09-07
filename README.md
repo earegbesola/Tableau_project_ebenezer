@@ -16,7 +16,9 @@ In the analysis,I deployed  different visualisations like heat map,bar charts an
 The following questions were answered with the data and visualizations.
 ## Questions:
 1.The leading causes of death globally from 1990 till 2019
+
 2.Leading causes of death for different countries from 1990 to 2019
+
 3.average Yearly causes of death by year.
 
 ## Challenges 
